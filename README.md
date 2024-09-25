@@ -1,3 +1,2 @@
 # CarRacing
-環境構築で参考にしたサイト
-https://qiita.com/Uenosita/items/ab4674dea1c1918670d0
+CarRacing-v2をSACとWorld Modelsを組み合わせて実装する。
